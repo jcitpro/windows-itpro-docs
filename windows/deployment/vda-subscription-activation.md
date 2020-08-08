@@ -31,7 +31,7 @@ Deployment instructions are provided for the following scenarios:
 - VMs must be running Windows 10 Pro, version 1703 (also known as the Creator's Update) or later.
 - VMs must be Active Directory-joined or Azure Active Directory (AAD)-joined.
 - VMs must be generation 1.
-- VMs must hosted by a [Qualified Multitenant Hoster](https://www.microsoft.com/en-us/CloudandHosting/licensing_sca.aspx) (QMTH).
+- VMs must be hosted by a [Qualified Multitenant Hoster](https://www.microsoft.com/en-us/CloudandHosting/licensing_sca.aspx) (QMTH).
 
 ## Activation
 
